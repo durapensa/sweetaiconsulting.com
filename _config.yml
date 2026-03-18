@@ -1,0 +1,10 @@
+title: Sweet AI Consulting
+description: >-
+  AI consulting for business owners in the East Bay, San Francisco, and the Peninsula.
+url: "https://sweetaiconsulting.com"
+baseurl: ""
+
+remote_theme: poole/lanyon
+
+plugins:
+  - jekyll-remote-theme
