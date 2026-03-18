@@ -9,18 +9,12 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        {% if site.logo %}
-          <img src="{{ site.logo | relative_url }}" alt="Logo" />
-        {% endif %}
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-      </header>
-      <section>
-        {{ content }}
-      </section>
-    </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ site.title }}</h1>
+      <h2 class="project-tagline">{{ site.description }}</h2>
+    </header>
+    <main class="main-content" role="main">
+      {{ content }}
+    </main>
   </body>
 </html>
