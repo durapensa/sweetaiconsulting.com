@@ -8,3 +8,6 @@ remote_theme: poole/lanyon
 
 plugins:
   - jekyll-remote-theme
+
+# Override Lanyon's demo sidebar defaults
+sidebar_links: []
