@@ -4,10 +4,11 @@ layout: default
 
 Let's have a down-to-earth discussion about your business!
 
-Phone, text, or voicemail: (415) 355-4362
-Email: [hello@sweetaiconsulting.com](mailto:hello@sweetaiconsulting.com)
+[hello@sweetaiconsulting.com](mailto:hello@sweetaiconsulting.com)
 
-Initial consultation is *free*: no-cost & no commitment.
+Phone/text/voicemail: (415) 355-4362
+
+Initial consultation is **_free_** : no-cost & no commitment.
 
 Discussion topics may include:
 
@@ -21,4 +22,4 @@ Medium-sized-business topics may include:
 * Cybersecurity assessments & recommendations
 * AI pilot projects: low-risk & low-cost
 
-*Sweet AI Consulting* operates in the East Bay, San Francisco, and the Peninsula.
+**_Sweet AI Consulting_** operates in the East Bay, San Francisco, and the Peninsula.
