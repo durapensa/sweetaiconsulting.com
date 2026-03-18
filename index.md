@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Sweet AI Consulting
+layout: default
 ---
 
 Let's have a down-to-earth discussion about your business!
