@@ -6,9 +6,9 @@ Let's have a down-to-earth discussion about your business!
 
 [hello@sweetaiconsulting.com](mailto:hello@sweetaiconsulting.com)
 
-Phone/text/voicemail: (415) 355-4362
+Phone / text / voicemail: **(415) 355-4362**
 
-Initial consultation is **_free_** : no-cost & no commitment.
+Initial consultation is **_free:_**: no-cost & no commitment.
 
 Discussion topics may include:
 
@@ -16,7 +16,7 @@ Discussion topics may include:
 * Readiness assessments & strategic roadmaps
 * Ethical practices for deploying AI within your business
 
-Medium-sized-business topics may include:
+Other topics may include:
 
 * Employee "acceptable use" policies for AI
 * Cybersecurity assessments & recommendations
