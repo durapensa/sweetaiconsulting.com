@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<center>**Let's have a down-to-earth discussion about your business!**</center>
-
-Email: [hello@sweetaiconsulting.com](mailto:hello@sweetaiconsulting.com)
+<center><b>Let's have a down-to-earth discussion about your business!</b></center>
 
 Phone: **(415) 355-4362** (text & voicemail, too)
+
+Email: [hello@sweetaiconsulting.com](mailto:hello@sweetaiconsulting.com)
 
 Initial consultation is **_free_** (no-cost & no commitment)
 
