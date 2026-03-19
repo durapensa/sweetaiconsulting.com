@@ -14,7 +14,7 @@ Starting points:
 
 * AI education for business owners & management
 * Competitive landscape review: what are your industry peers doing?
-* When **_NOT_**&nbsp;to use AI?
+* When **_NOT_**&nbsp; to use AI?
 * Readiness assessments & strategic roadmaps
 * Ethical practices for deploying AI within your business
 
