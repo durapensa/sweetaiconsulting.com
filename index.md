@@ -3,7 +3,7 @@ layout: default
 ---
 
 <center><b>Let's have a down-to-earth discussion about your business!</b></center>
-
+---
 Phone: **(415) 355-4362** (text & voicemail, too)
 
 Email: [hello@sweetaiconsulting.com](mailto:hello@sweetaiconsulting.com)
@@ -14,13 +14,13 @@ Starting points:
 
 * AI education for business owners & management
 * Competitive landscape review: what are your industry peers doing?
-* When **_not_** to use AI?
+* When **_NOT_**&nbsp;to use AI?
 * Readiness assessments & strategic roadmaps
 * Ethical practices for deploying AI within your business
 
 Deeper engagement:
 
-* Realistic cost/benefit analysis: what's actually *worth it*, at your scale?
+* Realistic cost/benefit analysis: *what's actually worth it*, at your scale?
 * AI tool selection & vendor evaluation: avoiding costly mistakes
 * Employees: *acceptable use* policies & staff training
 * Cybersecurity: assessments & recommendations
