@@ -30,4 +30,4 @@ Deeper engagement:
 ---
 Operating in the East Bay, San Francisco, the Peninsula, and remotely for select clients.
 
-© 2026 Sweet AI Consulting
+<center><i>© 2026 Sweet AI Consulting</i></center>
