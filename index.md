@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Let's have a down-to-earth discussion about your business!
+**Let's have a down-to-earth discussion about your business!**
 
 [hello@sweetaiconsulting.com](mailto:hello@sweetaiconsulting.com)
 
