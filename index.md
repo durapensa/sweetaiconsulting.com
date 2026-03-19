@@ -28,3 +28,5 @@ Deeper engagement:
 * AI pilot projects: low-risk & low-cost
 
 **_Sweet AI Consulting_** operates in the East Bay, San Francisco, the Peninsula, and remotely for select clients.
+
+© 2026 Sweet AI Consulting
