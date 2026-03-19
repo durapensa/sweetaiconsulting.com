@@ -4,11 +4,11 @@ layout: default
 
 **Let's have a down-to-earth discussion about your business!**
 
-[hello@sweetaiconsulting.com](mailto:hello@sweetaiconsulting.com)
+Email: [hello@sweetaiconsulting.com](mailto:hello@sweetaiconsulting.com)
 
-Phone / text / voicemail: **(415) 355-4362**
+Phone: **(415) 355-4362** (text & voicemail, too)
 
-Initial consultation is **_free:_** no-cost & no commitment.
+Initial consultation is **_free_** (no-cost & no commitment).
 
 Starting points:
 
