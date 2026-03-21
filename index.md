@@ -2,14 +2,14 @@
 layout: default
 ---
 
-*<center>Let's have a down-to-earth discussion about<br><b>AI</b> and <b>your business</b>!</center>*
+*<center>Let's have a down-to-earth discussion about <br><b>AI</b> and <b>your business</b>!</center>*
 ---
 ---
-Phone: **(415) 355-4362** (text & voicemail, too)
+Phone: &nbsp;**(415) 355-4362** &nbsp;(text & voicemail, too)
 
-Email: [hello@sweetaiconsulting.com](mailto:hello@sweetaiconsulting.com)
+Email: &nbsp;**[hello@sweetaiconsulting.com](mailto:hello@sweetaiconsulting.com)**
 
-Initial consultation is free (no-cost & no commitment)
+Initial consultation is free  *(no-cost & no commitment)*
 
 **<ins>Starting points</ins>:**
 
