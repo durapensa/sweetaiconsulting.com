@@ -4,14 +4,14 @@ layout: default
 
 *<center>Let's have a down-to-earth discussion about <br><b>AI</b> and <b>your business</b>!</center>*
 ---
----
+
 Phone: &nbsp;**(415) 355-4362** &nbsp;(text & voicemail, too)
 
-Email: &nbsp;**[hello@sweetaiconsulting.com](mailto:hello@sweetaiconsulting.com)**
+Email: &nbsp;&nbsp;&nbsp;**[hello@sweetaiconsulting.com](mailto:hello@sweetaiconsulting.com)**
 
-Initial consultation is free  *(no-cost & no commitment)*
+&emsp;&emsp;&emsp;&emsp;&ensp;Hour-long first consultation is *free\** &nbsp;*(no cost & no commitment)*
 
-**<ins>Starting points</ins>:**
+**<ins>Starting points</ins>:** 
 
 * AI education for business owners & management
 * Competitive landscape review: *what are your industry peers doing?*
@@ -19,7 +19,7 @@ Initial consultation is free  *(no-cost & no commitment)*
 * Readiness assessments & strategic roadmaps
 * Ethical practices for deploying AI for your business
 
-**<ins>Deeper engagement</ins>:**
+**<ins>Deeper engagement</ins>:** 
 
 * Realistic cost/benefit analysis: *right-sizing AI for your business*
 * AI tool selection & vendor evaluation: avoiding costly mistakes
@@ -32,7 +32,11 @@ Initial consultation is free  *(no-cost & no commitment)*
   * GDPR: the (European) General Data Protection Regulation
 * AI pilot project trials & vendor evaluations
 
+
+*\* pricing & retainer agreement options are provided at first consultation.*
+
 ---
+
 *Operating in the East Bay, San Francisco, the Peninsula, and remotely for select clients.*
 
 <center><i><small>© 2026 Sweet AI Consulting</small></i></center>
