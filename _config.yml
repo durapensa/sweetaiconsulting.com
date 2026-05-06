@@ -2,4 +2,12 @@ title: Sweet AI Consulting
 url: "https://sweetaiconsulting.com"
 baseurl: ""
 
-theme: jekyll-theme-cayman
+# Single source of truth for values that appear in copy.
+# CLAUDE.md > "Variables and single sources of truth" — never hardcode these.
+years_in_ai: 25
+contact:
+  email_general: hello@sweetaiconsulting.com
+  email_principal: david.hart@sweetaiconsulting.com
+  phone: "(415) 355-4362"
+service_area: East Bay, San Francisco, and the Peninsula
+first_consultation_offer: complimentary first hour-long consultation
