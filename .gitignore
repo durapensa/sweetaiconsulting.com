@@ -5,6 +5,7 @@ _site/
 vendor/
 .bundle/
 .claude/
+CLAUDE.md
 Gemfile.lock
 *.swp
 *.swo
