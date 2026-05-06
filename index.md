@@ -1,5 +1,10 @@
 ---
 layout: default
+seo_title: "Not every business problem is an AI problem."
+description: >-
+  Bay Area AI consulting. Helping owners and executives decide where AI
+  fits in their business, and where it doesn't.
+seo_target: "AI consulting Bay Area"
 ---
 
 <section class="hero">

@@ -1,0 +1,35 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": {{ site.title | jsonify }},
+  "description": {{ site.description | strip_newlines | jsonify }},
+  "url": "{{ site.url }}{{ site.baseurl }}/",
+  "telephone": "+1{{ site.contact.phone | remove: ' ' | remove: '(' | remove: ')' | remove: '-' }}",
+  "email": {{ site.contact.email_general | jsonify }},
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA",
+    "addressCountry": "US"
+  },
+  "areaServed": [
+    {"@type": "City", "name": "San Francisco"},
+    {"@type": "AdministrativeArea", "name": "East Bay"},
+    {"@type": "AdministrativeArea", "name": "San Francisco Peninsula"}
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "David Hart",
+    "jobTitle": "Principal"
+  },
+  "knowsAbout": [
+    "Artificial Intelligence",
+    "AI Strategy",
+    "AI Readiness Assessment",
+    "AI Vendor Selection",
+    "AI Privacy Compliance",
+    "AI Cybersecurity"
+  ]
+}
+</script>

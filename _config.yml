@@ -1,6 +1,33 @@
 title: Sweet AI Consulting
 url: "https://sweetaiconsulting.com"
 baseurl: ""
+lang: en
+
+description: >-
+  Bay Area AI consulting. Helping owners and executives decide where AI
+  fits in their business, and where it doesn't.
+
+author:
+  name: David Hart
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Internal docs and dev artifacts not for the public site.
+# Note: Jekyll's `exclude` REPLACES defaults, so the defaults must be restated.
+exclude:
+  - vendor/
+  - node_modules/
+  - .bundle/
+  - .claude/
+  - .sass-cache/
+  - .jekyll-cache/
+  - .jekyll-metadata
+  - Gemfile
+  - Gemfile.lock
+  - CLAUDE.md
+  - README.md
 
 # Single source of truth for values that appear in copy.
 # CLAUDE.md > "Variables and single sources of truth" — never hardcode these.
