@@ -35,9 +35,9 @@ seo_target: "AI consulting Bay Area"
     <div>
       <h2 class="section__title">Knowing when not to use AI</h2>
       <div class="section__body">
-        <p class="dropcap">Most engagements begin with questions that sound simple: should we be using AI? Where? How? The substantive work is in unpacking what the operational problems actually are, what &ldquo;using AI&rdquo; would mean, and how budgets should be allocated better for both AI and non-AI solutions. Concrete and well-informed decisions typically follow.</p>
+        <p class="dropcap">Most engagements begin with questions that sound simple: <i>Should we be using AI? Where? How?</i> The real work is figuring out what the operational problems actually are, before anyone talks about technology. Whether AI might improve a given process is most often a business question, not a technology one. So is how budgets should be allocated, and whether the answer involves AI at all.</p>
 
-        <p>The work begins with operational questions, before the technology questions. Whether and how much AI might improve a given operation is most often a business question, not a technology one. The advisor&rsquo;s role is to draw that line clearly enough that the decisions afterward are straightforward and well understood.</p>
+        <p>The advisor's role is to draw that line clearly enough that the decisions afterward are straightforward and well understood.</p>
 
 
         <p class="pull-quote">The advisor who says &ldquo;use AI for this&rdquo; should also be willing to say &ldquo;don&rsquo;t use AI for that.&rdquo;</p>
