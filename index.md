@@ -14,7 +14,7 @@ seo_target: "AI consulting Bay Area"
     </h1>
     <p class="hero__deck reveal reveal-2">
       Knowing the difference is most of the work. Sweet AI Consulting helps
-      owners and executives weigh the question honestly.
+      owners and executives answer the challenge honestly.
     </p>
     <p class="hero__metadata reveal reveal-3">
       <span>Principal: David Hart</span>
@@ -55,7 +55,7 @@ seo_target: "AI consulting Bay Area"
     <div>
       <h2 class="section__title">Where the practice is most useful</h2>
       <div class="section__body">
-        <p>Sweet AI Consulting engagements are scoped to address the problems we identify together. The work commonly proceeds along these lines:</p>
+        <p>Every engagement is different, but the work tends to move through a few recognizable stages:</p>
       </div>
 
       <div class="engagements">
@@ -65,7 +65,7 @@ seo_target: "AI consulting Bay Area"
           <p class="engagement__body">
             Management training, competitive landscape reviews, and readiness assessments
             that give a leadership team a shared, honest picture of what AI does and
-            doesn&rsquo;t do for their specific industry, concluding in a strategic
+            doesn&rsquo;t do for their specific industry. The deliverable is a strategic
             roadmap that isn&rsquo;t a vendor pitch.
           </p>
         </article>
@@ -74,9 +74,9 @@ seo_target: "AI consulting Bay Area"
           <span class="engagement__label">Selection &amp; Right&#8209;Sizing</span>
           <h3 class="engagement__title">The right answer, at the right scale</h3>
           <p class="engagement__body">
-            Cost/benefit analysis that&rsquo;s honest about both. Vendor evaluation against
-            criteria that come from your business, not the vendor&rsquo;s pitch.
-            Right-sizing so you don&rsquo;t over- or under-buy.
+            Cost/benefit analysis that&rsquo;s honest about both sides.
+            Vendor evaluation against criteria that come from your business, not the vendor&rsquo;s pitch.
+            Right-sizing so your business doesn&rsquo;t over-buy out of enthusiasm or under-buy out of caution.
           </p>
         </article>
 
@@ -84,9 +84,9 @@ seo_target: "AI consulting Bay Area"
           <span class="engagement__label">Operations</span>
           <h3 class="engagement__title">Tools into the workplace</h3>
           <p class="engagement__body">
-            Acceptable-use policies that staff can actually follow. Training and
-            executive workshops. Practical guardrails and ethical positions that the
-            organization can hold itself to.
+            Acceptable-use policies that staff can actually follow.
+            Training and workshops that give teams confidence, not anxiety. 
+            Practical guardrails the organization can stand behind when questioned.
           </p>
         </article>
 
@@ -94,9 +94,9 @@ seo_target: "AI consulting Bay Area"
           <span class="engagement__label">Risk</span>
           <h3 class="engagement__title">Where AI touches sensitive ground</h3>
           <p class="engagement__body">
-            Cybersecurity assessments specific to AI surface area. Data-privacy work
-            for cloud AI services, including CCPA and GDPR compliance. Ethical-practice
-            frameworks that hold up when challenged.
+            Cybersecurity assessments focused on the new risks AI tools introduce.
+            Data-privacy issues for cloud AI services, including CCPA and GDPR compliance.
+            Ethical-practice frameworks that hold up when challenged.
           </p>
         </article>
 
@@ -121,7 +121,8 @@ seo_target: "AI consulting Bay Area"
     <div>
       <h2 class="section__title">David Hart</h2>
       <div class="section__body">
-        <p>David Hart founded Sweet AI Consulting in 2026, drawing on {{ site.years_in_ai }}+ years of practice in artificial intelligence, including co-founding the OpenCog Foundation, an early effort in the open development of artificial general intelligence research. His advisory work joins that history with MBA-level business judgment, applied to the question every owner and executive is now weighing: where AI fits in their operation, and where it doesn&rsquo;t.</p>
+        <p>David Hart founded Sweet AI Consulting in 2026, drawing on {{ site.years_in_ai }}+ years of practice in artificial intelligence, including co-founding the OpenCog Foundation, an early effort in the open development of artificial general intelligence research.
+The practice pairs that technical depth with MBA-level business judgment, applied to the question every owner and executive is now asking: where AI fits in their operation, and where it doesn&rsquo;t.</p>
 
         <p>The practice serves SMBs, non-profits, and corporate executives across the {{ site.service_area }}, with selected remote engagements outside the region.</p>
       </div>
