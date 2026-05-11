@@ -37,7 +37,6 @@
 // ── Hero ───────────────────────────────────────────────────────────────
 .hero {
   padding: var(--space-32) var(--gutter) var(--space-24);
-  border-bottom: 1px solid var(--color-rule);
 }
 .hero__inner {
   max-width: var(--measure-wide);
@@ -74,6 +73,43 @@
 }
 .hero__metadata [aria-hidden="true"] {
   color: var(--color-rule);
+}
+
+// ── Hero banner ────────────────────────────────────────────────────────
+// Wide vertically-fading image as an editorial interlude between the
+// hero copy and §I Approach. Decorative (alt=""); fades into the cream
+// stock at top and bottom so the photo reads as atmosphere, not subject.
+.hero-banner {
+  position: relative;
+  width: 100%;
+  height: clamp(180px, 24vw, 480px);
+  overflow: hidden;
+  background-color: var(--color-bg);
+}
+.hero-banner__image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 45%;
+  display: block;
+}
+.hero-banner::before,
+.hero-banner::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 35%;
+  pointer-events: none;
+  z-index: 1;
+}
+.hero-banner::before {
+  top: 0;
+  background: linear-gradient(to bottom, var(--color-bg) 0%, rgba(245, 241, 232, 0) 100%);
+}
+.hero-banner::after {
+  bottom: 0;
+  background: linear-gradient(to top, var(--color-bg) 0%, rgba(245, 241, 232, 0) 100%);
 }
 
 // ── Section ────────────────────────────────────────────────────────────

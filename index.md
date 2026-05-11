@@ -26,6 +26,17 @@ seo_target: "AI consulting Bay Area"
   </div>
 </section>
 
+<div class="hero-banner" role="presentation">
+  <img
+    class="hero-banner__image"
+    src="{{ '/assets/img/hero/marin-headlands-fog.jpg' | relative_url }}"
+    alt=""
+    width="2400"
+    height="900"
+    loading="eager"
+    fetchpriority="high">
+</div>
+
 <section id="approach" class="section">
   <div class="section__inner">
     <p class="section__marker">
